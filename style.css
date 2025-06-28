@@ -308,6 +308,10 @@ a{
     color: var(--cor-branco);
 }
 
+.only-mobile{
+  display: none;
+}
+
 @media (max-width: 768px) {
   .header-a {
     margin-left: 10%;
